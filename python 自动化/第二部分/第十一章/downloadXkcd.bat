@@ -1,0 +1,1 @@
+@py.exe C:\Users\17621\Documents\python project\python 自动化\第二部分\第十一章\downloadXkcd.py %*
